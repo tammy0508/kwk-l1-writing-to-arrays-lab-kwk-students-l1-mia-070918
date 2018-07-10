@@ -14,6 +14,7 @@ def change_rainbow_colors
   rainbow_colors[1]="light_red"
   rainbow_colors[2]="light_yellow"
   # # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
+  rainbow_colors
 end
 
 puts change_rainbow_colors
